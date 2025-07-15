@@ -1,0 +1,52 @@
+# NLW Agents
+
+Assistente de Meta para jogos competitivos! Pergunte sobre estratégias, builds e dicas para Valorant, League of Legends e CS:GO, com respostas atualizadas via IA Gemini.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página
+- **CSS3**: Layout moderno, responsivo e animações
+- **JavaScript**: Lógica do formulário, integração com API Gemini e renderização dinâmica
+- **Showdown.js**: Conversão de respostas em Markdown para HTML
+- **Google Gemini API**: Inteligência Artificial para respostas contextualizadas
+
+## 🎨 Layout
+
+- Visual inspirado em eSports, com gradientes e cores vibrantes
+- Fonte principal: [Inter](https://fonts.google.com/specimen/Inter) e [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+- Responsivo para desktop e mobile
+- Imagens exclusivas em `/assets` (logo e background)
+
+## 💡 Funcionalidades
+
+- Escolha do jogo (Valorant, LoL, CS:GO)
+- Perguntas sobre meta, estratégias e builds
+- Respostas diretas, em até 500 caracteres, renderizadas em Markdown
+- Validação de campos e feedback visual durante requisições
+
+## ⚡ Como usar
+
+1. Clone o repositório
+2. Abra o `index.html` em seu navegador
+3. Insira sua API Key do Gemini
+4. Escolha o jogo e faça sua pergunta!
+
+## 📁 Estrutura
+
+```
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── bg.jpg
+│   ├── logo.png
+│   └── README
+└── doc.md
+```
+
+## ✨ Créditos
+
+Projeto desenvolvido durante a  04-NLW 20 [Rocketseat](https://rocketseat.com.br).
+
+---
+Feito com 💜 por [Michele]
